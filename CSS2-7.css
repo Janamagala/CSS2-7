@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.maincontainer {
+    max-width: 1920px;
+    width: 100%;
+    height: 2676px;
+    background: #FFF;
+    display: inline-block;
+}
+
+.mainsection {
+    width: 1604px;
+    height: 2344px;
+    margin-top: 64px;
+    margin-left: 50px;
+    background: #1B0E0F;
+    display: inline-block;
+}
+
+.featuresection {
+    width: 1280px;
+    height: 2152px;
+    background: #FFF;
+    margin-top: 96px;
+    margin-left: 162px;
+}
+
+.header {
+    width: 1280px;
+    height: 136px;
+}
+
+.headercontent {
+    width: 1216px;
+    height: 136px;
+    margin-left: 32px;
+}
+
+.headertext {
+    width: 929px;
+    height: 24px;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    margin: 0 143px;
+    color: #002AFE;
+    font-size: 16px;
+}
+
+.headertitle {
+    width: 929px;
+    height: 44px;
+    display: inline-block;
+    margin: 0 143px;
+    align-items: center;
+    text-align: center;
+    font-size: 40px;
+    color: #181D27;
+    margin-top: 12px;
+
+}
+
+.headerspan {
+    width: 1216px;
+    height: 24px;
+    display: inline-block;
+    margin-top: 32px;
+    text-align: center;
+    color: #535862;
+    font-size: 18px;
+}
+
+.article {
+    width: 1280px;
+    height: 512px;
+    margin-top: 96px;
+    margin-left: 66px;
+}
+
+.articlephoto {
+    width: 600px;
+    height: 462px;
+    border-radius: 16px;
+}
+
+.articleinfo {
+    width: 584px;
+    height: 274px;
+    margin-top: -380px;
+    margin-left: 620px;
+}
+
+.infotext {
+    width: 584px;
+    height: 211px;
+}
+
+.title {
+    width: 584px;
+    height: 20px;
+    align-items: center;
+    color: #6941C6;
+    font-size: 14px;
+}
+
+.heading {
+    width: 584px;
+    height: 40px;
+    align-items: center;
+}
+
+.heading h2 {
+    font-size: 24px;
+}
+
+.arrow {
+    margin-left: 30px;
+}
+
+.span {
+    display: inline-block;
+    width: 584px;
+    height: 143px;
+    color: #535862;
+    font-size: 16px;
+}
+
+.author {
+    width: 130px;
+    height: 80px;
+    align-items: center;
+}
+
+.authoricon {
+    width: 24px;
+    height: 24px;
+}
+
+.authoricon img {
+    width: 24px;
+    height: 24px;
+    margin-top: 10px;
+}
+
+.authorinfo {
+    margin-top: -20px;
+    margin-left: 30px;
+}
+
+.authorinfo .authorname {
+    color: #181D27;
+    font-size: 14px;
+}
+
+.authorinfo .authordata {
+    color: #535862;
+    font-size: 14px;
+}
